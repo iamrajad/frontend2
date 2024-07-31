@@ -1,0 +1,11 @@
+.c1 {
+  width: 400px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.i1 {
+  width: 60px;
+  margin-right: 5px;
+}
